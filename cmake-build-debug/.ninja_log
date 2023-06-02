@@ -1,0 +1,14 @@
+# ninja log v5
+8	2116	7074207525950779	CMakeFiles/ProjectC.dir/main.cpp.obj	5d2e976cc8a939e5
+59	2411	7074211655407977	CMakeFiles/ProjectC.dir/States/Intro_State.cpp.obj	304c31af9670530e
+1379	2767	7074185705923577	ProjectC.exe	c544e04f70ec0f73
+81	1923	7074211650507349	CMakeFiles/ProjectC.dir/States/Difficulty_Singleplayer_State.cpp.obj	3ce0291bb0ff1d77
+8	1926	7074211650512482	CMakeFiles/ProjectC.dir/States/Difficulty_Computerwars_State.cpp.obj	42140eccb9604873
+70	2415	7074211655423087	CMakeFiles/ProjectC.dir/States/Multiplayer_State.cpp.obj	555f475f9bfd9823
+92	1960	7074211650894281	CMakeFiles/ProjectC.dir/States/Menu_State.cpp.obj	de1e6e65d36aef4c
+55	2025	7074213641727829	CMakeFiles/ProjectC.dir/Player.cpp.obj	1bc01381be8413cc
+7	2056	7074213642031444	CMakeFiles/ProjectC.dir/ResourceManager.cpp.obj	734cf3b65e54eeac
+78	2347	7074213644964723	CMakeFiles/ProjectC.dir/Game.cpp.obj	c9af8d6e85e769e8
+90	2757	7074213649047941	CMakeFiles/ProjectC.dir/Board.cpp.obj	a51f337b52ec6f9e
+66	2770	7074213649176698	CMakeFiles/ProjectC.dir/GameGUI.cpp.obj	cf81e2127b00ca43
+2773	6143	7074213682785329	ProjectC.exe	d77d49804646cb40
